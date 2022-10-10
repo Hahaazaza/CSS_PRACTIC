@@ -83,10 +83,6 @@ header {
   font-style: italic;
 }
 
-footer {
-  padding-top: -5px;
-}
-
 .rectangle2 {
   position: fixed;
   bottom: 0;
@@ -102,6 +98,7 @@ footer p:first-of-type {
   bottom: 0;
   margin-bottom: 15px;
   padding-left: 40%;
+  color: white;
   padding-right: 5%;
   align-items:center;
 }
